@@ -1,7 +1,9 @@
 namespace src.Practice01 {
 
     class Bank {
+
         private int monto = 0;
+       
 
         public int BankMonto { 
 
@@ -10,6 +12,8 @@ namespace src.Practice01 {
             set { this.monto = value; } 
 
         }
+
+    
 
     };
 

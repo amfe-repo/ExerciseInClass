@@ -11,3 +11,16 @@
 /mnt/d/Proyectos C#/ExerciseInClass/obj/Debug/netcoreapp3.1/ExerciseInClass.dll
 /mnt/d/Proyectos C#/ExerciseInClass/obj/Debug/netcoreapp3.1/ExerciseInClass.pdb
 /mnt/d/Proyectos C#/ExerciseInClass/obj/Debug/netcoreapp3.1/ExerciseInClass.genruntimeconfig.cache
+D:\Proyectos C#\ExerciseInClass\bin\Debug\netcoreapp3.1\ExerciseInClass.exe
+D:\Proyectos C#\ExerciseInClass\bin\Debug\netcoreapp3.1\ExerciseInClass.deps.json
+D:\Proyectos C#\ExerciseInClass\bin\Debug\netcoreapp3.1\ExerciseInClass.runtimeconfig.json
+D:\Proyectos C#\ExerciseInClass\bin\Debug\netcoreapp3.1\ExerciseInClass.runtimeconfig.dev.json
+D:\Proyectos C#\ExerciseInClass\bin\Debug\netcoreapp3.1\ExerciseInClass.dll
+D:\Proyectos C#\ExerciseInClass\obj\Debug\netcoreapp3.1\ExerciseInClass.csprojAssemblyReference.cache
+D:\Proyectos C#\ExerciseInClass\obj\Debug\netcoreapp3.1\ExerciseInClass.AssemblyInfoInputs.cache
+D:\Proyectos C#\ExerciseInClass\obj\Debug\netcoreapp3.1\ExerciseInClass.AssemblyInfo.cs
+D:\Proyectos C#\ExerciseInClass\obj\Debug\netcoreapp3.1\ExerciseInClass.csproj.CoreCompileInputs.cache
+D:\Proyectos C#\ExerciseInClass\obj\Debug\netcoreapp3.1\ExerciseInClass.dll
+D:\Proyectos C#\ExerciseInClass\obj\Debug\netcoreapp3.1\ExerciseInClass.pdb
+D:\Proyectos C#\ExerciseInClass\obj\Debug\netcoreapp3.1\ExerciseInClass.genruntimeconfig.cache
+D:\Proyectos C#\ExerciseInClass\bin\Debug\netcoreapp3.1\ExerciseInClass.pdb

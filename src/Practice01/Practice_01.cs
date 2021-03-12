@@ -11,6 +11,7 @@ día calcule la cantidad de dinero que hay depositado. */
     class Practice_01 {
         
         Bank bk1 = new Bank();
+        static int counter_global = 0;
 
         public void BankExercise() {
             
@@ -57,8 +58,7 @@ día calcule la cantidad de dinero que hay depositado. */
 
                 }
             }
-            
-            
+   
         }
 
         private void UserInterface(User session) {
@@ -137,12 +137,17 @@ día calcule la cantidad de dinero que hay depositado. */
                 new User("admin", "admin_0989", admin: true)
 
             };
+            
+            if (counter_global == 0) {
 
-            foreach (var person in user_db) {
-
-                bk1.BankMonto += person.UserMoney;
-                
+                foreach (var person in user_db) {
+    
+                    bk1.BankMonto += person.UserMoney;
+        
+                }
+                counter_global = counter_global + 1;
             }
+            
 
             index = VerifyUser(user_db, name, pass);
 
